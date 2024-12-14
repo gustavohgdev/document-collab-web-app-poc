@@ -57,5 +57,3 @@ Frontend Changes Needed:
 ![alt text](<Screenshot 2024-12-14 at 3.03.21 AM.png>)
 
 ![alt text](<Screenshot 2024-12-14 at 3.03.48 AM.png>)
-
-[text](<Screen Recording 2024-12-14 at 3.04.55 AM.mov>)
