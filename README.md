@@ -35,8 +35,6 @@ docker compose up --build
   
 4. Missing features
 
-There are 2 missing additional features that are not part of the app because of time constraints which are rich text editing and adding shapes. But here I'll mention the changes we'll need to implement in order to add these features:
-
 Backend Changes Needed:
 
 - Update the Document model's content field to handle rich text and shapes data
